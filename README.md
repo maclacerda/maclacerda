@@ -3,7 +3,7 @@
 ## Software Engineer
 
 - 🔭 I’m currently working on @itau-unibanco | iti
-- 🌱 I’m currently learning ***SwiftUI***
+- 🌱 I’m currently learning ***SwiftUI*** & **English Conversation**
 - 🔐  There are a lot of private repositories here 🙈
 - 🤝  I believe on team work and I like to help and be helped. _Sharing knowledge is the best way to grow_
 - 👯  Enthusiast for continuous improvement and continuos evolution! 🤯
@@ -100,5 +100,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Lacerda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/macmarcos/)](https://www.linkedin.com/in/macmarcos/)
 [![Twitter Badge](https://img.shields.io/badge/-@_maclacerda-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_maclacerda)](https://twitter.com/_maclacerda)
 [![Telegram Badge](https://img.shields.io/badge/-@maclacerda-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=black&link=https://t.me/maclacerda)](https://t.me/maclacerda)
+[![Medium Badge](https://img.shields.io/badge/-@maclacerda-292929?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@maclacerda)](https://medium.com/@maclacerda)
 
 *iMessage*: +55 31 9 8541-3032
