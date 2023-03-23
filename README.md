@@ -3,7 +3,7 @@
 ## Software Engineer
 
 - 🔭 I’m currently working on @itau-unibanco | iti
-- 🌱 I’m currently learning ***Vapor 4*** & **English Conversation**
+- 🌱 I’m currently learning **English**
 - 🔐  There are a lot of private repositories here 🙈
 - 🤝  I believe on team work and I like to help and be helped. _Sharing knowledge is the best way to grow_
 - 👯  Enthusiast for continuous improvement and continuos evolution! 🤯
