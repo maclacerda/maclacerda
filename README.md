@@ -2,7 +2,6 @@
 
 ## Software Engineer
 
-- 🔭 I’m currently working on @mercadobitcoin
 - 🌱 I’m currently learning **SwiftUI**
 - 🔐  There are a lot of private repositories here 🙈
 - 🤝  I believe on team work and I like to help and be helped. _Sharing knowledge is the best way to grow_
