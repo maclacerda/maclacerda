@@ -6,6 +6,7 @@
 - 🔐  There are a lot of private repositories here 🙈
 - 🤝  I believe on team work and I like to help and be helped. _Sharing knowledge is the best way to grow_
 - 👯  Enthusiast for continuous improvement and continuos evolution! 🤯
+- ⚡️ Fun facts about me: Musician / Fan of Golden State Warriors NBA team / Fan of Kansas City Chiefs of NFL team / Pet father
 - 💬 Ask me about Swift, SwiftUI, Combine, Vapor, Xcode Tools, CI, CD, Git, MVVM (MVVM-C), Clean, VIPER and much more
 
 ---
